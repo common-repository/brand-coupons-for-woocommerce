@@ -1,0 +1,86 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+
+@font-face {
+  font-family: 'wbc';
+  src:  url('fonts/wbc.eot?jp4itg');
+  src:  url('fonts/wbc.eot?jp4itg#iefix') format('embedded-opentype'),
+    url('fonts/wbc.ttf?jp4itg') format('truetype'),
+    url('fonts/wbc.woff?jp4itg') format('woff'),
+    url('fonts/wbc.svg?jp4itg#wbc') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.wbc-icon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'wbc' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.wbc-icon-info-circle:before {
+  content: "\f05a";
+}
+.wbc-icon-arrow-right:before {
+  content: "\f061";
+}
+
+
+.wbc_banner {
+	float: left;
+	clear: both;
+	margin-top: 15px;
+	padding: 10px 20px 10px 12px;
+	background-color: #fafafa;
+	border: 1px solid #d3ced2;
+	border-radius: 3px;
+}
+
+.wbc_banner_code {
+	display: inline-block;
+	margin: 8px 0;
+	padding: 2px 10px;
+	border: 2px dashed #000;
+	border-radius: 4px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.wbc_banner_price_container {
+	display: inline-block;
+	padding: 2px 5px;
+	/*margin-left: 3px;*/
+	font-weight: bold;
+}
+
+.wbc_banner_price_container .wbc-icon {
+	font-size: 14px;
+}
+
+.wbc_banner_price {
+	margin-left: 3px;
+	font-size: 18px;
+    color: #d9534f;
+}
+
+.wbc_banner_info {
+	font-size: 12px;
+}
+
+.wbc_banner_info .wbc-icon {
+	display: none;
+	margin-right: 5px;
+}

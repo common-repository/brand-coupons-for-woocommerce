@@ -1,0 +1,117 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Brand Coupons for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-22 10:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.5.3"
+
+#: admin/class-woocommerce-brand-coupons-admin.php:194
+msgid "Add new brands and assign them to your products."
+msgstr ""
+
+#: admin/class-woocommerce-brand-coupons-admin.php:300
+msgid ""
+"Add your own CSS code in order to customize the styles of the banner "
+"displayed on the product page."
+msgstr ""
+
+#. Author of the plugin
+msgid "Ampersand Factory"
+msgstr ""
+
+#. Name of the plugin
+msgid "Brand Coupons for WooCommerce"
+msgstr ""
+
+#: admin/class-woocommerce-brand-coupons-admin.php:195
+#, php-format
+msgid "Create discount <a href=\"%s\">Coupons</a> with brand restrictions."
+msgstr ""
+
+#. id
+#: admin/class-woocommerce-brand-coupons-admin.php:225
+msgid "CSS Selectors"
+msgstr ""
+
+#. id
+#: admin/class-woocommerce-brand-coupons-admin.php:263
+msgid "Custom CSS"
+msgstr ""
+
+#. id
+#: admin/class-woocommerce-brand-coupons-admin.php:256
+msgid "Customize"
+msgstr ""
+
+#: admin/class-woocommerce-brand-coupons-admin.php:296
+msgid ""
+"Customize the CSS selectors to properly get the base price of your products."
+msgstr ""
+
+#. Description of the plugin
+msgid "Display your brand-restricted coupons on the WooCommerce product pages."
+msgstr ""
+
+#: public/class-woocommerce-brand-coupons-public.php:156
+msgid "Enter this code in your cart to apply the discount."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.ampersandfactory.com/"
+msgstr ""
+
+#: admin/class-woocommerce-brand-coupons-admin.php:193
+#, php-format
+msgid ""
+"Install and activate the \"<a class=\"thickbox open-plugin-details-modal\" "
+"href=\"%s\" target=\"_blank\">Perfect Brands for WooCommerce</a>\" plugin."
+msgstr ""
+
+#: admin/class-woocommerce-brand-coupons-admin.php:154
+#, php-format
+msgid ""
+"Please install and activate the <strong><a class=\"thickbox open-plugin-"
+"details-modal\" href=\"%s\" target=\"_blank\">Perfect Brands for "
+"WooCommerce</a></strong> plugin."
+msgstr ""
+
+#: admin/class-woocommerce-brand-coupons-admin.php:139
+msgid "Please install and activate the <strong>WooCommerce</strong> plugin."
+msgstr ""
+
+#: admin/class-woocommerce-brand-coupons-admin.php:196
+msgid ""
+"Promotional banners will automatically be displayed on product pages, "
+"including the code and description of each coupon."
+msgstr ""
+
+#. id
+#: admin/class-woocommerce-brand-coupons-admin.php:232
+msgid "Regular Price"
+msgstr ""
+
+#. id
+#: admin/class-woocommerce-brand-coupons-admin.php:240
+msgid "Sale Price"
+msgstr ""
+
+#: admin/class-woocommerce-brand-coupons-admin.php:189
+msgid ""
+"This plugin displays your brand-restricted discount coupons automatically on "
+"the product pages of your WooCommerce store."
+msgstr ""
+
+#. id
+#: admin/class-woocommerce-brand-coupons-admin.php:248
+msgid "Variation Price"
+msgstr ""
